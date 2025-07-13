@@ -36,8 +36,3 @@ seaborn: Para la creación de visualizaciones estadísticas atractivas.
 requests: Para descargar el diccionario de datos desde una URL.
 Estas bibliotecas están preinstaladas en el entorno de Google Colab.
 
-Hallazgos Clave
-(Esta sección debe ser completada después de ejecutar el análisis y revisar el informe final. Puedes resumir los principales hallazgos sobre qué factores están más relacionados con el churn).
-
-Recomendaciones
-(Esta sección debe ser completada después de revisar las recomendaciones en el informe final. Puedes listar las sugerencias estratégicas para reducir el churn).
